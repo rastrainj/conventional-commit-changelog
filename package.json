@@ -1,0 +1,26 @@
+{
+  "name": "nx-mfe-cypress-storybook",
+  "version": "0.0.1",
+  "description": "Monorepo creado con Nx workspace para probar microfrontends, cypress, storybook...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rastrainj/nx-mfe-cypress-storybook.git"
+  },
+  "keywords": [],
+  "author": "rastrainj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rastrainj/nx-mfe-cypress-storybook/issues"
+  },
+  "homepage": "https://github.com/rastrainj/nx-mfe-cypress-storybook#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "husky": "^7.0.0"
+  }
+}
