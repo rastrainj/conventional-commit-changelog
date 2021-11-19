@@ -1,6 +1,6 @@
 {
   "name": "nx-mfe-cypress-storybook",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Monorepo creado con Nx workspace para probar microfrontends, cypress, storybook...",
   "main": "index.js",
   "scripts": {
